@@ -4,7 +4,7 @@ namespace DotNetLearning.Services.UserService
 	public interface IUserService
 	{
 
-		    string getMyName();
+		string getMyName();
 	}
 }
 
